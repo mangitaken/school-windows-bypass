@@ -1,0 +1,29 @@
+<html>
+<head>
+    <body>
+Another common way to harness the power of almost any app that a student wants to install:
+Go to Windows Explorer (or files application)
+Click on Windows (C:), Should be under this PC.
+In the top left corner, click the yellow folder icon to add a new folder.
+Name your folder, it can be gibberish, or you can hide it with a legit sounding name.
+Install any program that you want using this method, but make sure you either download it to the new folder directly or move it into the new folder from the Downloads or Quick Access area.
+
+Windows Explorer (files)> Windows (C:) > Add New Folder (rename up to you) > open any downloaded program from within this new folder. 
+---------------
+Note:
+App must not require Administrator access. Some apps may ask for Admin, but may be bypassed by simply clicking no. It really depends on the application. 
+For Example:
+Installing Firefox asks for admin, but using the listed method you can bypass, granting it admin permission and installing it.
+Installing Opera GX does not ask for admin, but instead goes directly to installing the application.
+Installing Krita generally does not require admin, but may request it.
+Installing a VPN requires admin, and can't be bypassed, since it needs to make changes to your devices network and VPN settings.
+Administrator access strictly depends on whether an application makes major changes to your device.
+---------------
+Most students when using this typically download a secondary browser that is not compatible with Linewize Connect, such as Opera GX or Firefox. These too, can simply be bypassed by clicking no. Teachers can still monitor student screens and activities and even lock down and close student applications, but websites and settings are unblocked and furthermore can be changed.
+---------------
+Browser Bypass:
+In most browsers, the settings are generally the same. You usually have a "Privacy, search, and services" section, that is where the most important settings can be changed. The most common way through the browser is to chance the Tracking prevention to Strict, and remove all exceptions, then go to the Security tab and enable "Use secure DNS", "Automatically switch to more secure connections with Automatic HTTPS".
+---------------
+        </body>
+</head>
+</html>
